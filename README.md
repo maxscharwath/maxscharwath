@@ -1,16 +1,25 @@
-### Hi there 👋
+### Maxime Scharwath
+<br>
+<br>
 
-<!--
-**maxscharwath/maxscharwath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxscharwath&&show_icons=true&theme=dark" alt="nicrausaz's Github Stats">
+</p>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3 align="center">Connect with me</h3>
+<p align="center">
+ <a href="https://linkedin.com/in/MaximeScharwath" target="blank">
+  <img align="center" alt="Maxime Scharwath's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/maxscharwath/" target="blank">
+  <img align="center" alt="Maxime Scharwath's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/maximescharwath" target="blank">
+  <img align="center" alt="Maxime Scharwath's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" /> &nbsp; &nbsp;
+ </a>
+  
+  <br/>
+  <br/>
+  <a href="https://maxime.scharwath.ch"> My personnal website<br/>
+</p>
