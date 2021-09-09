@@ -5,7 +5,9 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxscharwath&&show_icons=true&theme=dark&count_private=true" alt="maxscharwath's Github Stats">
 </p>  
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxscharwath&layout=compact&theme=dark" alt="maxscharwath's Top Languages">
+</p> 
 <div align="center">
   <h3 align="center">Connect with me</h3>
 <p align="center">
