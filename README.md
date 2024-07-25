@@ -1,8 +1,7 @@
 # Hello there, I'm Maxime Scharwath 👋
 
 ## Who am i?
-- ⌨️ I'm an Software Engineer Student from Switzerland 🇨🇭
-- 🎓 I'm currently learning at engineer school HEIG-VD in Switzerland
+- ⌨️ I'm an Software Engineer from Switzerland 🇨🇭
 - 🤖 I'm passionate about development, hacking and creating cool things.
 
 ## Languages & more 📚
